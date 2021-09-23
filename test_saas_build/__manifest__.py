@@ -1,0 +1,16 @@
+{
+    "name": "SaaS tests on builds",
+    "summary": "This module is installed on build to test modules from saas-addons",
+    "license": "LGPL-3",
+    "depends": ["web"],
+    "external_dependencies": {"python": [], "bin": []},
+    "data": [],
+    "demo": [],
+    "qweb": [],
+    "post_load": None,
+    "pre_init_hook": None,
+    "post_init_hook": None,
+    "uninstall_hook": None,
+    "auto_install": False,
+    "installable": True,
+}
